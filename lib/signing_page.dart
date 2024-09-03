@@ -10,7 +10,7 @@ class SigninPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Sign Up'),
+        title: Text('Sign up'),
       ),
       body: Padding(
         padding: EdgeInsets.all(16.0),
